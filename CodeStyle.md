@@ -45,6 +45,8 @@ extern ushort APIFetchPageSizeDefault;   // 再好些，把重要的往前放
 YHToolbarComment    // 不推荐
 YHCommentToolbar    // OK，把类型（toolbar）置后
 ```
+最后的类型写全称：array，dictionary，button//错误写法 btn ，arr，dic
+两个单词的类型 首字母大写：CollectionView,TableView
 
 ### <a name='namespace'></a>命名空间
 * 类名、protocols、C 函数、常量、结构体和枚举应带有命名空间前缀；
